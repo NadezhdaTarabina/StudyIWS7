@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coffee&amp;Tea</string>
+    <string name="favorite">Favorite</string>
+    <string name="store">Store</string>
+    <string name="shopping_cart">Cart</string>
+    <string name="coffee">Coffee</string>
+    <string name="tea">Tea</string>
+    <string name="dessert">DesertT</string>
+    <string name="select">Select</string>
+    <string name="content_description_media">содержание описания модуля</string>
+</resources>

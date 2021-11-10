@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/store_bottom_navigator"
+        android:enabled="true"
+        android:icon="@drawable/outline_store_24"
+        android:title="@string/store" />
+
+    <item
+        android:id="@+id/favorite_bottom_navigator"
+        android:enabled="true"
+        android:icon="@drawable/outline_favorite_24"
+        android:title="@string/favorite"/>
+
+    <item
+        android:id="@+id/shopping_cart_bottom_navigator"
+        android:enabled="true"
+        android:icon="@drawable/outline_shopping_cart_24"
+        android:title="@string/shopping_cart"/>
+</menu>
